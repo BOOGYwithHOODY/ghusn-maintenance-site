@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[45178,["/ghusn-maintenance-site/_next/static/chunks/2uw5vrv_-n7g4.js","/ghusn-maintenance-site/_next/static/chunks/0zmvyptk783y8.js","/ghusn-maintenance-site/_next/static/chunks/41ba7_61v8cm2.js","/ghusn-maintenance-site/_next/static/chunks/16zxfyb4av_0k.js","/ghusn-maintenance-site/_next/static/chunks/39s27wq027_a_.js","/ghusn-maintenance-site/_next/static/chunks/0vp4bqgdthgcc.js"],"Reveal"]
+3:I[12032,["/ghusn-maintenance-site/_next/static/chunks/2uw5vrv_-n7g4.js","/ghusn-maintenance-site/_next/static/chunks/0zmvyptk783y8.js","/ghusn-maintenance-site/_next/static/chunks/41ba7_61v8cm2.js","/ghusn-maintenance-site/_next/static/chunks/16zxfyb4av_0k.js","/ghusn-maintenance-site/_next/static/chunks/39s27wq027_a_.js","/ghusn-maintenance-site/_next/static/chunks/0vp4bqgdthgcc.js"],"TextReveal"]
+4:I[97367,["/ghusn-maintenance-site/_next/static/chunks/0h2qsuyze9ds1.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/ghusn-maintenance-site/_next/static/chunks/0h2qsuyze9ds1.js"],"ViewportBoundary"]
+a:I[97367,["/ghusn-maintenance-site/_next/static/chunks/0h2qsuyze9ds1.js"],"MetadataBoundary"]
+8:X
+1b:X
+1b:C
+0:{"buildId":"JUHen2OC5mUzI9wW2gdzU","data":[{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"relative bg-ink text-cream overflow-hidden","children":[["$","div",null,{"className":"absolute inset-0 tech-grid","aria-hidden":"true"}],["$","$L2",null,{"direction":"none","className":"absolute -top-32 -end-32 h-[360px] w-[360px] rounded-full bg-maroon/40 blur-3xl","children":["$","span",null,{"aria-hidden":"true"}]}],["$","div",null,{"className":"relative mx-auto max-w-7xl px-5 md:px-6 py-14 md:py-20","children":[["$","$L3",null,{"as":"h1","text":"Terms & Conditions","className":"text-3xl md:text-5xl font-bold text-balance max-w-3xl leading-[1.25]"}],"$undefined","$undefined"]}]]}],["$","section",null,{"className":"mx-auto max-w-3xl px-5 md:px-6 py-14 md:py-20","children":[["$","p",null,{"className":"text-sm text-steel","children":["Last updated",": 2026-09-11"]}],["$","div",null,{"className":"mt-8 space-y-8","children":[["$","div","Scope of Service",{"children":[["$","h2",null,{"className":"font-semibold text-lg","children":"Scope of Service"}],["$","p",null,{"className":"mt-2 leading-relaxed text-ink/85","children":"Ghosn Maintenance Establishment provides inspection, maintenance, and repair services for the commercial equipment described on this site. The details and cost of each service are defined in the quotation or technical report for each request."}]]}],["$","div","Requests & Scheduling",{"children":[["$","h2",null,{"className":"font-semibold text-lg","children":"Requests & Scheduling"}],["$","p",null,{"className":"mt-2 leading-relaxed text-ink/85","children":"Submitting a request through the site does not constitute a binding contract until the visit and cost are confirmed by our team. We work to honor confirmed appointments; they may change per operational circumstances with prior notice."}]]}],["$","div","Pricing & Payment",{"children":[["$","h2",null,{"className":"font-semibold text-lg","children":"Pricing & Payment"}],["$","p",null,{"className":"mt-2 leading-relaxed text-ink/85","children":"Our technical reports itemize labor and spare parts separately. The prices stated in the written quotation for each request apply."}]]}],["$","div","Liability",{"children":[["$","h2",null,{"className":"font-semibold text-lg","children":"Liability"}],["$","p",null,{"className":"mt-2 leading-relaxed text-ink/85","children":"We perform maintenance according to recognized technical standards. We are not liable for failures caused by misuse or third-party intervention after our work is completed."}]]}],["$","div","Use of the Website",{"children":[["$","h2",null,{"className":"font-semibold text-lg","children":"Use of the Website"}],["$","p",null,{"className":"mt-2 leading-relaxed text-ink/85","children":"By using this website you agree to provide accurate information in forms and not to misuse our contact channels."}]]}]]}]]}]],[["$","script","script-0",{"src":"/ghusn-maintenance-site/_next/static/chunks/0vp4bqgdthgcc.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Terms & Conditions | Ghosn Maintenance Establishment"}],["$","meta","1",{"name":"description","content":"The Gold Standard in Specialty Coffee, Kitchen & Refrigeration Maintenance"}],["$","meta","2",{"name":"robots","content":"noindex"}],["$","meta","3",{"property":"og:title","content":"Terms & Conditions | Ghosn Maintenance Establishment"}],["$","meta","4",{"property":"og:description","content":"The Gold Standard in Specialty Coffee, Kitchen & Refrigeration Maintenance"}],["$","meta","5",{"property":"og:site_name","content":"Ghosn Maintenance Establishment"}],["$","meta","6",{"property":"og:locale","content":"en_US"}],["$","meta","7",{"property":"og:image","content":"https://boogywithhoody.github.io/ghusn-maintenance-site/logo.png"}],"$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16"]}]}]}],"$L17"]}],"isPartial":"$@18","staleTime":"$8","varyParams":null},{"rsc":"$L19","isPartial":"$@1a","staleTime":"$8","varyParams":"$1b"}],"isUpgradeableISRFallback":false,"a":"$@1c","rootVaryParams":null,"needsRuntimeRequest":"$@1d"}
+1e:I[27201,["/ghusn-maintenance-site/_next/static/chunks/0h2qsuyze9ds1.js"],"IconMark"]
+1f:I[39756,["/ghusn-maintenance-site/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+20:I[37457,["/ghusn-maintenance-site/_next/static/chunks/0h2qsuyze9ds1.js"],"default"]
+6:null
+b:["$","meta","8",{"property":"og:image:width","content":"500"}]
+c:["$","meta","9",{"property":"og:image:height","content":"500"}]
+d:["$","meta","10",{"property":"og:type","content":"website"}]
+e:["$","meta","11",{"name":"twitter:card","content":"summary"}]
+f:["$","meta","12",{"name":"twitter:title","content":"Terms & Conditions | Ghosn Maintenance Establishment"}]
+10:["$","meta","13",{"name":"twitter:description","content":"The Gold Standard in Specialty Coffee, Kitchen & Refrigeration Maintenance"}]
+11:["$","meta","14",{"name":"twitter:image","content":"https://boogywithhoody.github.io/ghusn-maintenance-site/logo.png"}]
+12:["$","meta","15",{"name":"twitter:image:width","content":"500"}]
+13:["$","meta","16",{"name":"twitter:image:height","content":"500"}]
+14:["$","link","17",{"rel":"icon","href":"/ghusn-maintenance-site/icon.png?icon.4251g169jj1zw.png","sizes":"256x256","type":"image/png"}]
+15:["$","link","18",{"rel":"apple-touch-icon","href":"/ghusn-maintenance-site/apple-icon.png?apple-icon.2hfjua6ir2dv-.png","sizes":"180x180","type":"image/png"}]
+16:["$","$L1e","19",{}]
+17:["$","meta",null,{"name":"next-size-adjust","content":""}]
+19:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1d:true
+8:300
+8:C
+1c:0
+18:"$undefined"
+1a:"$undefined"
+7:"$undefined"
